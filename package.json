@@ -1,0 +1,15 @@
+{
+  "name": "lws-json-server-todos",
+  "description": "Example in memory todos api with json-server by Learn with Sumit",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "Learn with Sumit",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  }
+}
